@@ -4,6 +4,8 @@ heroku-buildpack-imagemagick
 Use the latest version of ImageMagick inside Heroku _Cedar_.
 At the moment it is bundled the version 6.8.1-10.
 
+__DO NOT USE, THIS BUILDPACK IS DEPRECATED__ and does not work on _Cedar 14_, the current Heroku stack.
+
 ## Usage
 
 This buildpack is built to be used through 
